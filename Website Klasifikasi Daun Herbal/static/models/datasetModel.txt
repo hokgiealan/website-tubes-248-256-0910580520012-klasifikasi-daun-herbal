@@ -1,0 +1,2 @@
+Dikarenakan Error pada saat git push berikut lampiran link savemodel berformat .h5 :
+https://drive.google.com/file/d/1qGwfrtD64tivC_PqE9OFgquFOwWIROq6/view?usp=share_link
